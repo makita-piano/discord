@@ -42,3 +42,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'discordrb'
 gem 'dotenv-rails'
+gem 'mechanize'
+gem 'pry-byebug'
