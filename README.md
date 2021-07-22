@@ -1,5 +1,5 @@
-# AtCoder
-AtCoderのバーチャルコンテストを自動作成するAPI
+# Discord
+Discordへ通知するAPI
 
 # 環境
 - Rails
